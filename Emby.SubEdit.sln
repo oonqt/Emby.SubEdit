@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emby.SubEdit", "Emby.SubEdit.csproj", "{12DD0A0F-A162-4957-B264-F9AC8097D6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12DD0A0F-A162-4957-B264-F9AC8097D6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DD0A0F-A162-4957-B264-F9AC8097D6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DD0A0F-A162-4957-B264-F9AC8097D6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DD0A0F-A162-4957-B264-F9AC8097D6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A809D73-73AA-4496-B745-5628E738A165}
+	EndGlobalSection
+EndGlobal
