@@ -36,11 +36,7 @@ namespace Emby.SubEdit.Api
         {
             InternalItemsQuery query = new InternalItemsQuery
             {
-                IncludeItemTypes = new string[] { typeof(Movie).Name },
-                SearchTerm = "Star trek",
-                Recursive = true,
-                DtoOptions = new DtoOptions(true),
-                Limit = 50,
+                // IncludeItemTypes = new string[] { typeof(Movie).Name }
             };
 
             QueryResult<BaseItem> items = _libraryManager.GetItemsResult(query);
